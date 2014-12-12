@@ -22,7 +22,7 @@ Cockpit comes with a complete Mediamanager. **Manage folders and files.** Upload
 Get a thumnail url from an $image
 
 ```
-$thubnail_url = cockpit('mediamanager:thumbnail', 'path/to/anyimage.jpg', 200, 300);
+$thumbnail_url = cockpit('mediamanager:thumbnail', 'path/to/anyimage.jpg', 200, 300);
 ```
 
 ```
